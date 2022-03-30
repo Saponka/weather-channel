@@ -1,10 +1,8 @@
 body {
     font-family: "Roboto", sans-serif;
     /* background: #0a1f44; */
-    background-image: url(https://img.freepik.com/vector-gratis/cielo-azul-fondo-nubes-brillantes_1017-23279.jpg?size=1426&ext=jpg);
-    color: white;
+    background-image: url(./img/nubesfondo.jpg);
 }
-
 h1 {
     font-weight: bold;
     font-size: 4rem;
@@ -16,7 +14,7 @@ input {
   border: none;
   background: none;
   outline: none;
-  color: white;
+
 }
 
 ul {
@@ -38,6 +36,7 @@ button {
     margin-left: 15px;
     border-radius: 5px;
     background: #ff1e42;
+    color: antiquewhite;
 }
   
 button:hover {
